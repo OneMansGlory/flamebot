@@ -1,7 +1,7 @@
 /*Variable area*/
 var Discordbot = require('discord.io');
-var email = 'flame.mattr0d@gmail.com';
-var password = 'flamebotkappa123';
+var email = 'your_email_here';
+var password = 'your_pass_here';
 var channelId = '108590221213323264';
 var greyRoleId = '114190868503724038';
 var redRoleId = '114203448404213767';
